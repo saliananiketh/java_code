@@ -2,6 +2,6 @@ class welcome
 {
   public static void main(String args[])
   {
-    System.out.println("wlecome to SE class ")
+    System.out.println("wlecome to SE class ");
   }
 }
